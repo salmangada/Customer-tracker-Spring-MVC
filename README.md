@@ -1,1 +1,1 @@
-# Spring MVC demp project.
+# Spring MVC demo project.
